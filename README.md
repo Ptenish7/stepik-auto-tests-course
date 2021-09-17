@@ -1,3 +1,3 @@
 # stepik-auto-tests-course
 Tasks for Stepik course
-Add a new string
+Add a new commit
